@@ -1,0 +1,2 @@
+# Gradle reads this for the Android SDK location. Do not commit real paths.
+# sdk.dir=/Users/you/Library/Android/sdk
